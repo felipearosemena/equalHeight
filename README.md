@@ -10,11 +10,16 @@ The plugin is quite simple. Just add a `data-equal-height=X` to any element, whe
     <div data-equal-height="a"></div>
     <div data-equal-height="a"></div>
     <div data-equal-height="a"></div>
+    
+    <div data-equal-height="b"></div>
+    <div data-equal-height="b"></div>
 
 Then call the plugin:
 
     $('div').equalHeight();
 
+Now all
 
+It will automatically listen for resize events and readjust the size of all the elements
  
  
