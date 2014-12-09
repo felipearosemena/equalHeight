@@ -12,7 +12,7 @@ The plugin is quite simple. Just add a `data-equal-height=X` to any element, whe
     <div data-equal-height="a"></div>
 
 Then call the plugin 
- 
+  
 
 
  
