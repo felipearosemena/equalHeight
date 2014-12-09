@@ -18,7 +18,7 @@ Then call the plugin:
 
     $('div').equalHeight();
 
-Now all
+Now all divs with `data-equal-height=a` will match heights, and the same for all `data-equal-height=b` elements.
 
 It will automatically listen for resize events and readjust the size of all the elements
  
